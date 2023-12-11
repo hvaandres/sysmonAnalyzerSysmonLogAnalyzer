@@ -1,0 +1,392 @@
+Event ID,Timestamp,Process ID,Process Path,Parent Process Path,User
+11,,6684,C:\Windows\System32\MicrosoftEdgeCP.exe,C:\Users\IEUser\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\AC\#!001\MicrosoftEdge\Cache\G66JIV53\msfpayload[1].exe,MSEDGEWIN10\IEUser
+11,,3512,C:\Windows\system32\browser_broker.exe,C:\Users\IEUser\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\TempState\Downloads\msfpayload.exe.dgm7v2e.partial,MSEDGEWIN10\IEUser
+13,,{747f3d96-d857-634d-1000-000000001800},728,C:\Windows\system32\svchost.exe,Binary Data
+7,,4636,C:\Windows\System32\MicrosoftEdgeCP.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+13,,{747f3d96-11c8-6360-e40a-000000001800},7416,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,Binary Data
+1,,4856,C:\Windows\System32\mmc.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+10,,7416,3660,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,4856
+7,,4856,C:\Windows\System32\mmc.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+12,,{747f3d96-16ba-6360-fc13-000000001800},4856,C:\Windows\system32\mmc.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-16ba-6360-fc13-000000001800},4856,C:\Windows\system32\mmc.exe,MSEDGEWIN10\IEUser
+13,,{747f3d96-16ba-6360-fc13-000000001800},4856,C:\Windows\system32\mmc.exe,DWORD (0x00000001)
+7,,4856,C:\Windows\System32\mmc.exe,C:\Windows\System32\mscoree.dll,Microsoft .NET Runtime Execution Engine
+7,,4856,C:\Windows\System32\mmc.exe,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll,Microsoft .NET Runtime Execution Engine
+7,,4856,C:\Windows\System32\mmc.exe,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll,Microsoft .NET Runtime Common Language Runtime - WorkStation
+7,,4856,C:\Windows\System32\mmc.exe,C:\Windows\assembly\NativeImages_v4.0.30319_64\mscorlib\e2c5db271896923f5450a77229fb2077\mscorlib.ni.dll,Microsoft Common Language Runtime Class Library
+7,,4856,C:\Windows\System32\mmc.exe,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll,Microsoft .NET Runtime Just-In-Time Compiler
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\MMC.EXE-77107406.pf,NT AUTHORITY\SYSTEM
+12,,{747f3d96-16ba-6360-fc13-000000001800},4856,C:\Windows\system32\mmc.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-16ba-6360-fc13-000000001800},4856,C:\Windows\system32\mmc.exe,MSEDGEWIN10\IEUser
+13,,{747f3d96-16ba-6360-fc13-000000001800},4856,C:\Windows\system32\mmc.exe,Binary Data
+7,,5828,C:\Windows\System32\PickerHost.exe,C:\Users\IEUser\AppData\Local\Microsoft\OneDrive\22.207.1002.0003\FileSyncShell64.dll,Microsoft OneDrive Shell Extension
+7,,5828,C:\Windows\System32\PickerHost.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+11,,5828,C:\Windows\System32\PickerHost.exe,C:\Users\IEUser\Downloads\msfpayload.exe,MSEDGEWIN10\IEUser
+11,,5828,C:\Windows\System32\PickerHost.exe,C:\Users\IEUser\Downloads\msfpayload.exe,MSEDGEWIN10\IEUser
+13,,{747f3d96-172d-6360-fd13-000000001800},5828,C:\Windows\System32\PickerHost.exe,Binary Data
+11,,3512,C:\Windows\system32\browser_broker.exe,C:\Users\IEUser\Downloads\msfpayload.exe.6j7clow.partial,MSEDGEWIN10\IEUser
+11,,6684,C:\Windows\System32\MicrosoftEdgeCP.exe,C:\Users\IEUser\Downloads\msfpayload.exe.6j7clow.partial,MSEDGEWIN10\IEUser
+15,,3512,C:\Windows\system32\browser_broker.exe,C:\Users\IEUser\Downloads\msfpayload.exe.6j7clow.partial,"SHA1=243B135654DAA203F1C459BC8D20AC0430D4057D,MD5=FBD1DA6B923F8C47D30F58F9EB155440,SHA256=A3A15026BDDDF9438FC7D1C73C9D1AFFCB4599D6BDBBDA5B02FC9153103F86FD,IMPHASH=481F47BBB2C9C21E108D65F52B04C448"
+11,,3512,C:\Windows\system32\browser_broker.exe,C:\Users\IEUser\Downloads\msfpayload.exe.6j7clow.partial:Zone.Identifier,MSEDGEWIN10\IEUser
+15,,3512,C:\Windows\system32\browser_broker.exe,C:\Users\IEUser\Downloads\msfpayload.exe.6j7clow.partial:Zone.Identifier,"SHA1=D59FC84CDD5217C6CF74785703655F78DA6B582B,MD5=FBCCF14D504B7B2DBCB5A5BDA75BD93B,SHA256=EACD09517CE90D34BA562171D15AC40D302F0E691B439F91BE1B6406E25F5913,IMPHASH=00000000000000000000000000000000"
+15,,3512,C:\Windows\system32\browser_broker.exe,C:\Users\IEUser\Downloads\msfpayload.exe.6j7clow.partial,"SHA1=243B135654DAA203F1C459BC8D20AC0430D4057D,MD5=FBD1DA6B923F8C47D30F58F9EB155440,SHA256=A3A15026BDDDF9438FC7D1C73C9D1AFFCB4599D6BDBBDA5B02FC9153103F86FD,IMPHASH=481F47BBB2C9C21E108D65F52B04C448"
+15,,3512,C:\Windows\system32\browser_broker.exe,C:\Users\IEUser\Downloads\msfpayload.exe.6j7clow.partial:Zone.Identifier,"SHA1=FB302B3D90BC843618B06A7B6083C04F357F159E,MD5=345EA9B686B00F6A8963F625D5C87739,SHA256=8EA066FF8BD409F391A7A38B606A88DB52281798A08EA42FC7E3406570408BE6,IMPHASH=00000000000000000000000000000000"
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\PICKERHOST.EXE-93018817.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1649-6360-f513-000000001800},2268,C:\Windows\System32\MicrosoftEdgeCP.exe,Binary Data
+13,,{747f3d96-1627-6360-ec13-000000001800},4556,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe,Binary Data
+13,,{747f3d96-162e-6360-ef13-000000001800},5992,C:\Windows\system32\MicrosoftEdgeSH.exe,Binary Data
+13,,{747f3d96-1659-6360-f913-000000001800},6684,C:\Windows\System32\MicrosoftEdgeCP.exe,Binary Data
+13,,{747f3d96-1695-6360-fb13-000000001800},4636,C:\Windows\System32\MicrosoftEdgeCP.exe,Binary Data
+13,,{747f3d96-d857-634d-1000-000000001800},728,C:\Windows\system32\svchost.exe,Binary Data
+7,,6308,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+12,,{747f3d96-d868-634d-6600-000000001800},4084,C:\Windows\Explorer.EXE,MSEDGEWIN10\IEUser
+12,,{747f3d96-d868-634d-6600-000000001800},4084,C:\Windows\Explorer.EXE,MSEDGEWIN10\IEUser
+12,,{747f3d96-d868-634d-6600-000000001800},4084,C:\Windows\Explorer.EXE,MSEDGEWIN10\IEUser
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,v2.29|Action=Block|Active=TRUE|Dir=In|Name=WARP_JIT_f471ade1-c06f-4cc1-b553-4ec58849a351|Desc=WarpJit|LUOwn=S-1-5-19|AppPkgId=S-1-15-2-2971241858-2230215205-2786255634-1068626728-1274595116-509586553-3257051241|EmbedCtxt=WARP_JIT_f471ade1-c06f-4cc1-b553-4ec58849a351|
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,v2.29|Action=Block|Active=TRUE|Dir=Out|Name=WARP_JIT_f471ade1-c06f-4cc1-b553-4ec58849a351|Desc=WarpJit|LUOwn=S-1-5-19|AppPkgId=S-1-15-2-2971241858-2230215205-2786255634-1068626728-1274595116-509586553-3257051241|EmbedCtxt=WARP_JIT_f471ade1-c06f-4cc1-b553-4ec58849a351|
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,v2.29|AppPkgId=S-1-15-2-2971241858-2230215205-2786255634-1068626728-1274595116-509586553-3257051241|LUOwn=S-1-5-19|C=S-1-15-3-1024-1502825166-1963708345-2616377461-2562897074-4192028372-3968301570-1997628692-1435953622|C=S-1-15-3-1024-1065365936-1281604716-3511738428-1654721687-432734479-3232135806-4053264122-3456934681|C=S-1-15-3-1024-3153509613-960666767-3724611135-2725662640-12138253-543910227-1950414635-4190290187|C=S-1-15-3-1024-220022770-701261984-3991292956-4208751020-2918293058-3396419331-1700932348-2078364891|M=warp_jit_f471ade1-c06f-4cc1-b553-4ec58849a351|Name=WARP_JIT_f471ade1-c06f-4cc1-b553-4ec58849a351|Desc=WarpJit|
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade1-c06f-4cc1-b553-4ec58849a351,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade1-c06f-4cc1-b553-4ec58849a351\AC,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade1-c06f-4cc1-b553-4ec58849a351\AC\Temp,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade1-c06f-4cc1-b553-4ec58849a351\AC\INetCache,NT AUTHORITY\LOCAL SERVICE
+7,,4168,C:\Windows\System32\svchost.exe,C:\Windows\System32\taskschd.dll,Task Scheduler COM API
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade1-c06f-4cc1-b553-4ec58849a351\AC\INetHistory,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade1-c06f-4cc1-b553-4ec58849a351\AC\INetCookies,NT AUTHORITY\LOCAL SERVICE
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,DWORD (0x000001f3)
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,DWORD (0x000001f4)
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+12,,{747f3d96-df46-635f-6905-000000001800},6940,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+12,,{747f3d96-d85c-634d-4200-000000001800},2380,C:\Windows\system32\svchost.exe,NT AUTHORITY\NETWORK SERVICE
+12,,{747f3d96-d87c-634d-8900-000000001800},6244,C:\Windows\system32\SecurityHealthService.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-d8db-634d-ba00-000000001800},5596,C:\Windows\System32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-162f-6360-f013-000000001800},2648,C:\Windows\System32\MicrosoftEdgeCP.exe,Binary Data
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-AFAD3EF9.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SEARCHFILTERHOST.EXE-AA7A1FDD.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-d871-634d-7800-000000001800},4688,C:\Windows\System32\RuntimeBroker.exe,Binary Data
+13,,{747f3d96-d857-634d-1000-000000001800},728,C:\Windows\system32\svchost.exe,Binary Data
+7,,5516,C:\Windows\System32\MicrosoftEdgeCP.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,v2.29|Action=Block|Active=TRUE|Dir=In|Name=WARP_JIT_f471ade2-c06f-4cc1-b553-4ec58849a351|Desc=WarpJit|LUOwn=S-1-5-19|AppPkgId=S-1-15-2-410609863-3697578704-2989211981-2772878980-2062175231-903815735-3076205854|EmbedCtxt=WARP_JIT_f471ade2-c06f-4cc1-b553-4ec58849a351|
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,v2.29|Action=Block|Active=TRUE|Dir=Out|Name=WARP_JIT_f471ade2-c06f-4cc1-b553-4ec58849a351|Desc=WarpJit|LUOwn=S-1-5-19|AppPkgId=S-1-15-2-410609863-3697578704-2989211981-2772878980-2062175231-903815735-3076205854|EmbedCtxt=WARP_JIT_f471ade2-c06f-4cc1-b553-4ec58849a351|
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,v2.29|AppPkgId=S-1-15-2-410609863-3697578704-2989211981-2772878980-2062175231-903815735-3076205854|LUOwn=S-1-5-19|C=S-1-15-3-1024-1502825166-1963708345-2616377461-2562897074-4192028372-3968301570-1997628692-1435953622|C=S-1-15-3-1024-1065365936-1281604716-3511738428-1654721687-432734479-3232135806-4053264122-3456934681|C=S-1-15-3-1024-3153509613-960666767-3724611135-2725662640-12138253-543910227-1950414635-4190290187|C=S-1-15-3-1024-220022770-701261984-3991292956-4208751020-2918293058-3396419331-1700932348-2078364891|M=warp_jit_f471ade2-c06f-4cc1-b553-4ec58849a351|Name=WARP_JIT_f471ade2-c06f-4cc1-b553-4ec58849a351|Desc=WarpJit|
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade2-c06f-4cc1-b553-4ec58849a351,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade2-c06f-4cc1-b553-4ec58849a351\AC,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade2-c06f-4cc1-b553-4ec58849a351\AC\Temp,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade2-c06f-4cc1-b553-4ec58849a351\AC\INetCache,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade2-c06f-4cc1-b553-4ec58849a351\AC\INetHistory,NT AUTHORITY\LOCAL SERVICE
+11,,4992,C:\Windows\System32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\Local\Packages\warp_jit_f471ade2-c06f-4cc1-b553-4ec58849a351\AC\INetCookies,NT AUTHORITY\LOCAL SERVICE
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,DWORD (0x000001f5)
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+13,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,DWORD (0x000001f6)
+12,,{747f3d96-d859-634d-3400-000000001800},1740,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+12,,{747f3d96-df46-635f-6905-000000001800},6940,C:\Windows\system32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+12,,{747f3d96-d85c-634d-4200-000000001800},2380,C:\Windows\system32\svchost.exe,NT AUTHORITY\NETWORK SERVICE
+12,,{747f3d96-d87c-634d-8900-000000001800},6244,C:\Windows\system32\SecurityHealthService.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-d8db-634d-ba00-000000001800},5596,C:\Windows\System32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+12,,{747f3d96-1745-6360-0414-000000001800},5516,C:\Windows\System32\MicrosoftEdgeCP.exe,MSEDGEWIN10\IEUser
+13,,{747f3d96-d857-634d-1000-000000001800},728,C:\Windows\system32\svchost.exe,Binary Data
+22,,5516,b1-sadc1.zemanta.com,0,C:\Windows\System32\MicrosoftEdgeCP.exe
+22,,5516,img-s-msn-com.akamaized.net,0,C:\Windows\System32\MicrosoftEdgeCP.exe
+22,,6308,img-s-msn-com.akamaized.net,0,C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\MicrosoftEdge.exe
+22,,5516,bingretailmsndata.azureedge.net,0,C:\Windows\System32\MicrosoftEdgeCP.exe
+22,,5516,s.yimg.com,0,C:\Windows\System32\MicrosoftEdgeCP.exe
+22,,5516,zem.outbrainimg.com,0,C:\Windows\System32\MicrosoftEdgeCP.exe
+22,,5516,b1t-sadc1.zemanta.com,0,C:\Windows\System32\MicrosoftEdgeCP.exe
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\MICROSOFTEDGE.EXE-0F2B3493.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\BROWSER_BROKER.EXE-DDA21E2B.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\WINDOWS.WARP.JITSERVICE.EXE-576D6110.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1748-6360-0714-000000001800},3636,C:\Windows\system32\DllHost.exe,Binary Data
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\MICROSOFTEDGECP.EXE-1FF23A10.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\MICROSOFTEDGESH.EXE-DC6B79BA.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-F737CE0B.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\DLLHOST.EXE-0F726681.pf,NT AUTHORITY\SYSTEM
+7,,376,C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\CHXSmartScreen.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+7,,4908,C:\Windows\System32\svchost.exe,C:\Windows\System32\taskschd.dll,Task Scheduler COM API
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CHXSMARTSCREEN.EXE-54BF5C9A.pf,NT AUTHORITY\SYSTEM
+7,,4068,C:\Windows\System32\consent.exe,C:\Windows\System32\amsi.dll,Anti-Malware Scan Interface
+12,,{747f3d96-1773-6360-0914-000000001800},4068,C:\Windows\system32\consent.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1773-6360-0914-000000001800},4068,C:\Windows\system32\consent.exe,NT AUTHORITY\SYSTEM
+7,,4068,C:\Windows\System32\consent.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+13,,{747f3d96-175a-6360-0814-000000001800},376,C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\CHXSmartScreen.exe,Binary Data
+1,,8156,C:\Users\IEUser\Downloads\msfpayload.exe,2.2.14,Apache HTTP Server
+7,,8156,C:\Users\IEUser\Downloads\msfpayload.exe,C:\Users\IEUser\Downloads\msfpayload.exe,ApacheBench command line utility
+3,,8156,C:\Users\IEUser\Downloads\msfpayload.exe,MSEDGEWIN10\IEUser,True
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CONSENT.EXE-65F6206D.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\DLLHOST.EXE-893DDF55.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\DLLHOST.EXE-893DDF55.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\MSFPAYLOAD.EXE-535A17D0.pf,NT AUTHORITY\SYSTEM
+17,,{747f3d96-1777-6360-0c14-000000001800},8156,\rszget,MSEDGEWIN10\IEUser
+12,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,DWORD (0x00000010)
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,DWORD (0x00000003)
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,DWORD (0x00000000)
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,cmd.exe /c echo rszget > \\.\pipe\rszget
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,DWORD (0x0000014c)
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,LocalSystem
+1,,7740,C:\Windows\System32\cmd.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,DWORD (0x00000001)
+13,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,DWORD (0x00000004)
+12,,{747f3d96-d856-634d-0b00-000000001800},532,C:\Windows\system32\services.exe,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CMD.EXE-89305D47.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-d857-634d-1000-000000001800},728,C:\Windows\system32\svchost.exe,Binary Data
+7,,3268,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+13,,{747f3d96-d857-634d-1000-000000001800},728,C:\Windows\system32\svchost.exe,Binary Data
+17,,{747f3d96-d863-634d-5600-000000001800},3372,\AppContracts_x1C1A6735-D930-4CE4-B174-CC57BECC4C3Cy,MSEDGEWIN10\IEUser
+7,,1900,C:\Windows\System32\backgroundTaskHost.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+7,,4028,C:\Windows\System32\Speech_OneCore\common\SpeechRuntime.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+12,,{747f3d96-1838-6360-1214-000000001800},7056,C:\Windows\system32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1838-6360-1214-000000001800},7056,C:\Windows\system32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1838-6360-1114-000000001800},4028,C:\Windows\System32\Speech_OneCore\Common\SpeechRuntime.exe,MSEDGEWIN10\IEUser
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\BACKGROUNDTASKHOST.EXE-4F12152B.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SPEECHRUNTIME.EXE-A8F4661E.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-B1BAA501.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-881C0886.pf,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-194a-6360-1614-000000001800},8176,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+1,,6128,C:\Windows\System32\wbem\WmiPrvSE.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+7,,6128,C:\Windows\System32\wbem\WmiPrvSE.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+7,,1828,C:\Windows\System32\backgroundTaskHost.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-EF984078.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\RUNTIMEBROKER.EXE-9FDAEBE3.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\RUNTIMEBROKER.EXE-B2A4CECC.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\WMIPRVSE.EXE-43972D0F.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SPPSVC.EXE-CBE91656.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\AgRobust.db,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\AgGlGlobalHistory.db,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\AgGlFaultHistory.db,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\AgGlFgAppHistory.db,NT AUTHORITY\SYSTEM
+7,,2244,C:\Windows\System32\sppsvc.exe,C:\Windows\System32\taskschd.dll,Task Scheduler COM API
+13,,{747f3d96-d858-634d-1e00-000000001800},1076,C:\Windows\system32\svchost.exe,DWORD (0x00000003)
+11,,8156,C:\Users\IEUser\Downloads\msfpayload.exe,C:\Windows\System32\drivers\etc\hosts,MSEDGEWIN10\IEUser
+13,,{747f3d96-d857-634d-1000-000000001800},728,C:\Windows\system32\svchost.exe,Binary Data
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-AFAD3EF9.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SEARCHFILTERHOST.EXE-AA7A1FDD.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SPPSVC.EXE-CBE91656.pf,NT AUTHORITY\SYSTEM
+7,,7796,C:\Windows\System32\sppsvc.exe,C:\Windows\System32\taskschd.dll,Task Scheduler COM API
+13,,{747f3d96-d858-634d-1e00-000000001800},1076,C:\Windows\system32\svchost.exe,DWORD (0x00000003)
+11,,8156,C:\Users\IEUser\Downloads\msfpayload.exe,C:\Users\IEUser\Downloads\realvirus.exe,MSEDGEWIN10\IEUser
+17,,{747f3d96-d85d-634d-4900-000000001800},2584,\rubya18-4,NT AUTHORITY\SYSTEM
+1,,1700,C:\Windows\System32\cmd.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+1,,5508,C:\Program Files\Puppet Labs\Puppet\sys\ruby\bin\ruby.exe,2.0.0p648,Ruby interpreter 2.0.0p648 [x64-mingw32]
+7,,5508,C:\Program Files\Puppet Labs\Puppet\sys\ruby\bin\ruby.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+1,,1464,C:\Windows\System32\wbem\WmiPrvSE.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+7,,1464,C:\Windows\System32\wbem\WmiPrvSE.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+12,,{747f3d96-1b4e-6360-2514-000000001800},1464,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\NETWORK SERVICE
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\RUBY.EXE-4684BBC3.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CMD.EXE-89305D47.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CONHOST.EXE-3218E401.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-6D84FBA7.pf,NT AUTHORITY\SYSTEM
+1,,624,C:\Windows\System32\cmd.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+1,,4920,C:\Program Files\Puppet Labs\Puppet\sys\ruby\bin\ruby.exe,2.0.0p648,Ruby interpreter 2.0.0p648 [x64-mingw32]
+7,,4920,C:\Program Files\Puppet Labs\Puppet\sys\ruby\bin\ruby.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+17,,{747f3d96-1b54-6360-2814-000000001800},4920,\ruby1338-0,NT AUTHORITY\SYSTEM
+17,,{747f3d96-1b54-6360-2814-000000001800},4920,\ruby1338-1,NT AUTHORITY\SYSTEM
+1,,572,C:\Windows\System32\cmd.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+1,,5412,C:\Windows\System32\HOSTNAME.EXE,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\WMIPRVSE.EXE-43972D0F.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\HOSTNAME.EXE-A62916AE.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\HOSTNAME.EXE-A62916AE.pf,NT AUTHORITY\SYSTEM
+22,,4920,puppet,123,<unknown process>
+11,,2488,C:\Windows\System32\svchost.exe,C:\Windows\System32\sru\SRUtmp.log,NT AUTHORITY\LOCAL SERVICE
+11,,2488,C:\Windows\System32\svchost.exe,C:\Windows\System32\sru\SRUtmp.log,NT AUTHORITY\LOCAL SERVICE
+11,,2488,C:\Windows\System32\svchost.exe,C:\Windows\System32\sru\SRUtmp.log,NT AUTHORITY\LOCAL SERVICE
+22,,3436,cdn.onenote.net,0,C:\Windows\System32\svchost.exe
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1d0a-6360-2d14-000000001800},8,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-EF984078.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\RUNTIMEBROKER.EXE-9FDAEBE3.pf,NT AUTHORITY\SYSTEM
+1,,8144,C:\Windows\System32\cmd.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-12690405.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CMD.EXE-89305D47.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CONHOST.EXE-3218E401.pf,NT AUTHORITY\SYSTEM
+1,,1932,C:\Users\IEUser\Downloads\realvirus.exe,-,-
+7,,1932,C:\Users\IEUser\Downloads\realvirus.exe,C:\Users\IEUser\Downloads\realvirus.exe,-
+11,,1932,c:\Users\IEUser\Downloads\realvirus.exe,C:\Windows\System32\config\systemprofile\AppData\Roaming\realvirus.exe,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1dd0-6360-3214-000000001800},1932,c:\Users\IEUser\Downloads\realvirus.exe,C:\Windows\system32\config\systemprofile\AppData\Roaming\realvirus.exe
+11,,1932,c:\Users\IEUser\Downloads\realvirus.exe,C:\Users\IEUser\Downloads\brbconfig.tmp,NT AUTHORITY\SYSTEM
+7,,1932,C:\Users\IEUser\Downloads\realvirus.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+7,,8180,C:\Windows\notepad.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+3,,1932,c:\Users\IEUser\Downloads\realvirus.exe,NT AUTHORITY\SYSTEM,True
+22,,1932,MSEDGEWIN10,0,c:\Users\IEUser\Downloads\realvirus.exe
+22,,1932,brb.3dtuts.by,0,c:\Users\IEUser\Downloads\realvirus.exe
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\REALVIRUS.EXE-625D3C21.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD.EXE-3D2AFDB4.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SEARCHPROTOCOLHOST.EXE-AFAD3EF9.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SEARCHFILTERHOST.EXE-AA7A1FDD.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1dd0-6360-3214-000000001800},1932,c:\Users\IEUser\Downloads\realvirus.exe,Binary Data
+7,,636,C:\Windows\notepad.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+22,,1932,MSEDGEWIN10,0,c:\Users\IEUser\Downloads\realvirus.exe
+3,,1932,c:\Users\IEUser\Downloads\realvirus.exe,NT AUTHORITY\SYSTEM,True
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD.EXE-3D2AFDB4.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-d868-634d-6600-000000001800},4084,C:\Windows\Explorer.EXE,Binary Data
+1,,4012,C:\Program Files\Notepad++\notepad++.exe,8.46,Notepad++
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD++.EXE-A5D7A5DB.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1dd0-6360-3214-000000001800},1932,c:\Users\IEUser\Downloads\realvirus.exe,Binary Data
+7,,4696,C:\Windows\notepad.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+22,,1932,MSEDGEWIN10,0,c:\Users\IEUser\Downloads\realvirus.exe
+3,,1932,c:\Users\IEUser\Downloads\realvirus.exe,NT AUTHORITY\SYSTEM,True
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD.EXE-3D2AFDB4.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1dd0-6360-3214-000000001800},1932,c:\Users\IEUser\Downloads\realvirus.exe,Binary Data
+7,,6652,C:\Windows\notepad.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+22,,1932,MSEDGEWIN10,0,c:\Users\IEUser\Downloads\realvirus.exe
+3,,1932,c:\Users\IEUser\Downloads\realvirus.exe,NT AUTHORITY\SYSTEM,True
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD.EXE-3D2AFDB4.pf,NT AUTHORITY\SYSTEM
+1,,6016,C:\Windows\System32\tasklist.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+1,,5924,C:\Windows\System32\wbem\WmiPrvSE.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+7,,5924,C:\Windows\System32\wbem\WmiPrvSE.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+7,,6016,C:\Windows\System32\tasklist.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TASKLIST.EXE-9811F41E.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\WMIPRVSE.EXE-43972D0F.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1dd0-6360-3214-000000001800},1932,c:\Users\IEUser\Downloads\realvirus.exe,Binary Data
+7,,4836,C:\Windows\notepad.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+22,,1932,MSEDGEWIN10,0,c:\Users\IEUser\Downloads\realvirus.exe
+3,,1932,c:\Users\IEUser\Downloads\realvirus.exe,NT AUTHORITY\SYSTEM,True
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD.EXE-3D2AFDB4.pf,NT AUTHORITY\SYSTEM
+1,,4972,C:\Windows\System32\taskkill.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+13,,{747f3d96-1dd0-6360-3314-000000001800},8180,c:\Windows\notepad.exe,Binary Data
+13,,{747f3d96-1dee-6360-3614-000000001800},636,c:\Windows\notepad.exe,Binary Data
+13,,{747f3d96-1e0c-6360-3814-000000001800},4696,c:\Windows\notepad.exe,Binary Data
+13,,{747f3d96-1e2a-6360-3914-000000001800},6652,c:\Windows\notepad.exe,Binary Data
+13,,{747f3d96-1e48-6360-3c14-000000001800},4836,c:\Windows\notepad.exe,Binary Data
+13,,{747f3d96-1dd0-6360-3214-000000001800},1932,c:\Users\IEUser\Downloads\realvirus.exe,Binary Data
+7,,2272,C:\Windows\notepad.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+3,,1932,c:\Users\IEUser\Downloads\realvirus.exe,NT AUTHORITY\SYSTEM,True
+22,,1932,MSEDGEWIN10,0,c:\Users\IEUser\Downloads\realvirus.exe
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TASKKILL.EXE-609E34DE.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD.EXE-3D2AFDB4.pf,NT AUTHORITY\SYSTEM
+13,,{747f3d96-1dd0-6360-3214-000000001800},1932,c:\Users\IEUser\Downloads\realvirus.exe,Binary Data
+7,,6388,C:\Windows\notepad.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+22,,1932,MSEDGEWIN10,0,c:\Users\IEUser\Downloads\realvirus.exe
+3,,1932,c:\Users\IEUser\Downloads\realvirus.exe,NT AUTHORITY\SYSTEM,True
+1,,3256,C:\Windows\System32\taskkill.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+,,,,,
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TASKKILL.EXE-609E34DE.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\NOTEPAD.EXE-3D2AFDB4.pf,NT AUTHORITY\SYSTEM
+1,,4708,C:\Windows\System32\taskkill.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+13,,{747f3d96-1e67-6360-3e14-000000001800},2272,c:\Windows\notepad.exe,Binary Data
+7,,4708,C:\Windows\System32\taskkill.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+13,,{747f3d96-1e85-6360-3f14-000000001800},6388,c:\Windows\notepad.exe,Binary Data
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TASKKILL.EXE-609E34DE.pf,NT AUTHORITY\SYSTEM
+11,,728,C:\Windows\system32\svchost.exe,C:\Windows\Temp\HisAF46.tmp,NT AUTHORITY\SYSTEM
+11,,728,C:\Windows\system32\svchost.exe,C:\Windows\Temp\HisAF46.tmp,NT AUTHORITY\SYSTEM
+1,,2196,C:\Windows\System32\rundll32.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+13,,{747f3d96-d858-634d-1e00-000000001800},1076,C:\Windows\system32\svchost.exe,Binary Data
+1,,2936,C:\Windows\System32\rundll32.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+13,,{747f3d96-1f93-6360-4714-000000001800},2404,C:\Windows\system32\svchost.exe,Binary Data
+1,,6628,C:\Windows\System32\sc.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+1,,2976,C:\Windows\System32\rundll32.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+13,,{747f3d96-1f93-6360-4d14-000000001800},2936,C:\Windows\system32\rundll32.exe,Binary Data
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\CL_Utility.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\DiagPackage.diagpkg,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\DiagPackage.dll,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\RS_AdminDiagnosticHistory.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\RS_MachineWERQueue.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\RS_SyncSystemTime.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\RS_UserDiagnosticHistory.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\RS_UserWERQueue.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\TS_DiagnosticHistory.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\TS_InaccurateSystemTime.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\TS_WERQueue.ps1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\en-US,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\en-US\CL_LocalizationData.psd1,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\en-US\DiagPackage.dll.mui,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f94-6360-5014-000000001800},2028,C:\Windows\system32\taskhostw.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f94-6360-5014-000000001800},2028,C:\Windows\system32\taskhostw.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f94-6360-5014-000000001800},2028,C:\Windows\system32\taskhostw.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f94-6360-5014-000000001800},2028,C:\Windows\system32\taskhostw.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f94-6360-5014-000000001800},2028,C:\Windows\system32\taskhostw.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f94-6360-5014-000000001800},2028,C:\Windows\system32\taskhostw.exe,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f94-6360-5014-000000001800},2028,C:\Windows\system32\taskhostw.exe,MSEDGEWIN10\IEUser
+7,,7432,C:\Windows\System32\taskhostw.exe,C:\Windows\System32\taskschd.dll,Task Scheduler COM API
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\result,MSEDGEWIN10\IEUser
+11,,2028,C:\Windows\system32\taskhostw.exe,C:\Windows\Temp\SDIAG_00a73e77-3025-4acc-87f2-644d2e46dd6d\result\results.xsl,MSEDGEWIN10\IEUser
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\System32\mscoree.dll,Microsoft .NET Runtime Execution Engine
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll,Microsoft .NET Runtime Execution Engine
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll,Microsoft .NET Runtime Common Language Runtime - WorkStation
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\assembly\NativeImages_v4.0.30319_64\mscorlib\e2c5db271896923f5450a77229fb2077\mscorlib.ni.dll,Microsoft Common Language Runtime Class Library
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\RUNDLL32.EXE-5DD38A69.pf,NT AUTHORITY\SYSTEM
+11,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Users\IEUser\AppData\Local\Temp\__PSScriptPolicyTest_5jh41dk0.kpa.ps1,MSEDGEWIN10\IEUser
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\System32\urlmon.dll,OLE32 Extensions for Win32
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll,Microsoft .NET Runtime Just-In-Time Compiler
+23,,6408,MSEDGEWIN10\IEUser,C:\Windows\System32\sdiagnhost.exe,"SHA1=61EAC36109A6311641D5C1FA5183C7AE64215C3A,MD5=7A8D6C588CA4A3833E34CCE87C2567B6,SHA256=BA316F21124D38C14B7B557D7339F405D9063C115AD436F8A665C9FECDDEB135,IMPHASH=00000000000000000000000000000000"
+7,,5912,C:\Windows\System32\tzsync.exe,C:\Windows\System32\mscoree.dll,Microsoft .NET Runtime Execution Engine
+17,,{747f3d96-1f96-6360-5714-000000001800},6408,\PSHost.133117175263470891.6408.DefaultAppDomain.sdiagnhost,MSEDGEWIN10\IEUser
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1f9a-6360-6014-000000001800},8088,C:\Windows\System32\svchost.exe,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TASKHOSTW.EXE-4DB99E1B.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TRUSTEDINSTALLER.EXE-031B6478.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TIWORKER.EXE-1DF9E9B1.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-00BB3EFB.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\TASKHOSTW.EXE-4DB99E1B.pf,NT AUTHORITY\SYSTEM
+11,,5088,C:\Windows\system32\svchost.exe,C:\Windows\Logs\WindowsUpdate\WindowsUpdate.20221031.131856.599.1.etl,NT AUTHORITY\SYSTEM
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\System32\amsi.dll,Anti-Malware Scan Interface
+11,,5088,C:\Windows\system32\svchost.exe,C:\Windows\WindowsUpdate.log,NT AUTHORITY\SYSTEM
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+1,,6900,C:\Windows\System32\wbem\WmiPrvSE.exe,10.0.17763.1 (WinBuild.160101.0800),Microsoft® Windows® Operating System
+7,,6900,C:\Windows\System32\wbem\WmiPrvSE.exe,C:\Windows\System32\wbem\wmiutils.dll,WMI
+12,,{747f3d96-1fa2-6360-6314-000000001800},6900,C:\Windows\system32\wbem\wmiprvse.exe,NT AUTHORITY\NETWORK SERVICE
+7,,6408,C:\Windows\System32\sdiagnhost.exe,C:\Windows\System32\scrrun.dll,Microsoft ® Script Runtime
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=18E6791E33924E8C243F352B4BB3FD3FA046D4FA,MD5=1DCB96BED7D20DF592189176D6E200FD,SHA256=6BA73A35A33A242CEFC66637565ECD5356BDBB4FE71263328691D708615889ED,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=A606E1DC6876042785F95F9BB252DE8BCDD9D747,MD5=6677D9E83EE6247A3ED964082D43323B,SHA256=F17BA1D641CF8E50CDC252FB5831C35B15F6FCEB01DCAE2A4E4FA2A0C5E170CF,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=677241F9C1E39EE6347107EAB0E742F38F04B27B,MD5=DAF3CAF9FEE184902F88CF68C916254C,SHA256=659EBF584A5E0D31590D848EA13A3FAFF10C88F2D129BAA3C2A1635BE0E17613,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=568F6170ECAA7851B8707D43658EFC4E44F571BD,MD5=4EAD5FF0DE8201DAA5C771C9700C45AB,SHA256=77467AE995127372D335D7A5406EBD98CD3385CA7F8644E1342643330EC93341,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=4A2476FE0306E7A50355C3778CC9C4E35C787236,MD5=4E88B2A8EC2119CE19BE4F646887CD5B,SHA256=DC504537A34A8D3114D414B9681AC1936D59E497DBF39E8BE03760010C978DA2,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=CB67BDDD6C00E37386C5C92F1DC18C21F7F46C9F,MD5=3A3EA51AC79C212F298ED11E5312F4EF,SHA256=4AB9317A0AAE09510C150918C1757C7492C93606268A5E33F56031C244632A5A,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=E1A7CA7D302E81EF619B72F07F8C2F834DD8631A,MD5=014BB59898D97EE5E9D0C3D598879659,SHA256=136183A5D64C516CEE0A3CB893ADFA5D083CD4B74113D7665AFEC6E4EDD55C03,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=6F8E508526AF2F5A9AB618EBB26B140E8B2811B4,MD5=6F42EFE37F2F73BC4D5531A5906844C5,SHA256=00915C9BABA87359A458D23E18F412647852A3260280A0D64AF5E91307C01BCE,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=9105E7C23D4095A043CADA114A1C70F972B5B184,MD5=D1F499EF5B4A1B0FE5AC6B9B06D14B36,SHA256=437DEBEAE0F2B876D887A22CE26F44701CEB314E7B22D0292D1527B31805F304,IMPHASH=00000000000000000000000000000000"
+23,,2028,MSEDGEWIN10\IEUser,C:\Windows\system32\taskhostw.exe,"SHA1=4AD0544C2E61287EA06CF0903405AA561F37E842,MD5=C65CE632A3A35DF1E2E687AA94432C58,SHA256=46361B7489F075D4D426B33932A7A94D57F5E03125781E562027AA6D0C448A77,IMPHASH=00000000000000000000000000000000"
+7,,5088,C:\Windows\System32\svchost.exe,C:\Windows\System32\BitsProxy.dll,Background Intelligent Transfer Service Proxy
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\COMPATTELRUNNER.EXE-FF885652.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\CONHOST.EXE-3218E401.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SDIAGNHOST.EXE-67CD1457.pf,NT AUTHORITY\SYSTEM
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\SVCHOST.EXE-C157FE85.pf,NT AUTHORITY\SYSTEM
+12,,{747f3d96-1fa7-6360-6514-000000001800},6892,C:\Windows\system32\svchost.exe,NT AUTHORITY\SYSTEM
+11,,6892,C:\Windows\system32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow,NT AUTHORITY\SYSTEM
+11,,6892,C:\Windows\system32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft,NT AUTHORITY\SYSTEM
+11,,6892,C:\Windows\system32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft\CryptnetUrlCache,NT AUTHORITY\SYSTEM
+11,,6892,C:\Windows\system32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData,NT AUTHORITY\SYSTEM
+11,,6892,C:\Windows\system32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\7423F88C7F265F0DEFC08EA88C3BDE45_AA1E8580D4EBC816148CE81268683776,NT AUTHORITY\SYSTEM
+11,,6892,C:\Windows\system32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content,NT AUTHORITY\SYSTEM
+11,,6892,C:\Windows\system32\svchost.exe,C:\Windows\ServiceProfiles\LocalService\AppData\LocalLow\Microsoft\CryptnetUrlCache\Content\7423F88C7F265F0DEFC08EA88C3BDE45_AA1E8580D4EBC816148CE81268683776,NT AUTHORITY\SYSTEM
+12,,{747f3d96-d86f-634d-7100-000000001800},4824,C:\Windows\System32\svchost.exe,NT AUTHORITY\LOCAL SERVICE
+,,,,,
+11,,1296,C:\Windows\system32\svchost.exe,C:\Windows\Prefetch\WMIPRVSE.EXE-43972D0F.pf,NT AUTHORITY\SYSTEM
